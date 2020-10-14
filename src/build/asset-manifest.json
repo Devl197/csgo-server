@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "./static/css/main.e75bc54a.chunk.css",
+    "main.js": "./static/js/main.c765125f.chunk.js",
+    "main.js.map": "./static/js/main.c765125f.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.47073e55.js",
+    "runtime-main.js.map": "./static/js/runtime-main.47073e55.js.map",
+    "static/css/2.d9ad5f5c.chunk.css": "./static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.716f878c.chunk.js": "./static/js/2.716f878c.chunk.js",
+    "static/js/2.716f878c.chunk.js.map": "./static/js/2.716f878c.chunk.js.map",
+    "index.html": "./index.html",
+    "precache-manifest.e0d92b9eb2580a56905d6637cde5bc1a.js": "./precache-manifest.e0d92b9eb2580a56905d6637cde5bc1a.js",
+    "service-worker.js": "./service-worker.js",
+    "static/css/2.d9ad5f5c.chunk.css.map": "./static/css/2.d9ad5f5c.chunk.css.map",
+    "static/css/main.e75bc54a.chunk.css.map": "./static/css/main.e75bc54a.chunk.css.map",
+    "static/js/2.716f878c.chunk.js.LICENSE.txt": "./static/js/2.716f878c.chunk.js.LICENSE.txt",
+    "static/media/collection_icon_cs_assault.png": "./static/media/collection_icon_cs_assault.cf5b67b8.png",
+    "static/media/collection_icon_cs_italy.png": "./static/media/collection_icon_cs_italy.f8c954ec.png",
+    "static/media/collection_icon_cs_militia.png": "./static/media/collection_icon_cs_militia.6dadc440.png",
+    "static/media/collection_icon_cs_office.png": "./static/media/collection_icon_cs_office.c690f4fc.png",
+    "static/media/collection_icon_de_cbble.png": "./static/media/collection_icon_de_cbble.32765bbc.png",
+    "static/media/collection_icon_de_dust.png": "./static/media/collection_icon_de_dust.a6e8feaf.png",
+    "static/media/collection_icon_de_dust2.png": "./static/media/collection_icon_de_dust2.a916f965.png",
+    "static/media/collection_icon_de_inferno.png": "./static/media/collection_icon_de_inferno.2ff1294f.png",
+    "static/media/collection_icon_de_mirage.png": "./static/media/collection_icon_de_mirage.d87203aa.png",
+    "static/media/collection_icon_de_nuke.png": "./static/media/collection_icon_de_nuke.bd86083d.png",
+    "static/media/collection_icon_de_overpass.png": "./static/media/collection_icon_de_overpass.a655b8fb.png",
+    "static/media/collection_icon_de_vertigo.png": "./static/media/collection_icon_de_vertigo.8cb2ff79.png",
+    "static/media/knife.png": "./static/media/knife.faee6165.png",
+    "static/media/index.css": "./static/media/mishmash.44f81204.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.47073e55.js",
+    "static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.716f878c.chunk.js",
+    "static/css/main.e75bc54a.chunk.css",
+    "static/js/main.c765125f.chunk.js"
+  ]
+}
